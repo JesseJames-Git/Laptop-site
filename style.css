@@ -14,5 +14,32 @@
 a{
     text-decoration: none;
     color: black;
+}
+h1{
+    margin-top: 40px;
+}
+.list{
+    margin-top: 10px;
+   text-align: center;
+}
+.laptop-item{
+    width: 300px;
+    height: 200px;
+    border: px solid: black;
+    border-radius: 5px;
+    overflow: hidden;
     
+}
+footer{
+    display:flex;
+    justify-content: space-between;
+    width: 98vw;
+    height: 30px;
+    background-color: darkgray;
+    left: 0;
+    align-items: center;
+    border: 1px solid black;
+    bottom: 0;
+    border-radius: 5px;
+    position: fixed;
 }
